@@ -6,13 +6,13 @@ function agregarAmigo() {
 
     if (nombre === "") {
         alert("Por favor escribe un nombre");
-        input.focus(); // 🔹 Poner el cursor de nuevo en el input
+        input.focus();
         return;
     }
 
     amigos.push(nombre);
     input.value = "";
-    input.focus(); // 🔹 Cursor de nuevo en el input
+    input.focus();
     mostrarLista();
 }
 
