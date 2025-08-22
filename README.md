@@ -1,3 +1,6 @@
+![Demo de la app](assets/challenge_amigo_secreto_gif_completo.gif)
+
+
 Funcionalidades
 
 1. Agregar amigos: Permite ingresar los nombres de los participantes a la lista.
